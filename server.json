@@ -1,0 +1,351 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Introduction to React Native",
+      "img": "https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/curious/uploads/pictures/1608218061-75193.png",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic JavaScript knowledge",
+        "Familiarity with React"
+      ],
+      "due": "10 Nov 2023",
+      "likes": 2343,
+      "rating": 3,
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Advanced JavaScript",
+      "img": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/12/Advanced-JavaScript-Tutorial-1.jpg",
+      "instructor": "Jane Smith",
+      "description": "Master advanced JavaScript concepts and techniques.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "6 weeks",
+      "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Intermediate JavaScript knowledge"
+      ],
+      "due": "25 Nov 2023",
+      "likes": 5466,
+      "rating": 3,
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Closures and Scope",
+          "content": "In-depth study of closures and variable scope."
+        },
+        {
+          "week": 2,
+          "topic": "Promises and Async/Await",
+          "content": "Asynchronous programming with Promises and Async/Await."
+        }
+      ],
+      "students": [
+        {
+          "id": 103,
+          "name": "Eve Wilson",
+          "email": "eve@example.com"
+        },
+        {
+          "id": 104,
+          "name": "Charlie Brown",
+          "email": "charlie@example.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Web Development",
+      "img": "https://www.cdmi.in/courses@2x/web-developments.webp",
+      "instructor": "Sarah Johnson",
+      "description": "Fundamentals of web development with HTML, CSS, and JavaScript.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "your.image.here",
+      "duration": "10 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:30 PM - 8:30 PM",
+      "location": "Online",
+      "prerequisites": [
+        "None"
+      ],
+      "due": "1 Dec 2023",
+      "likes": 2343,
+      "rating": 5,
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "HTML Basics",
+          "content": "Introduction to HTML elements and structure."
+        },
+        {
+          "week": 2,
+          "topic": "CSS Styling",
+          "content": "Styling web pages with CSS."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 4,
+      "name": "Python for Data Science",
+      "img": "https://blog.imarticus.org/wp-content/uploads/2021/12/learn-Python-for-data-science.jpg",
+      "instructor": "Michael Brown",
+      "description": "Learn Python programming for data science and analysis.",
+      "enrollmentStatus": "In Progress",
+      "thumbnail": "your.image.here",
+      "duration": "12 weeks",
+      "schedule": "Mondays and Wednesdays, 6:30 PM - 8:30 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic programming knowledge"
+      ],
+      "due": "15 Dec 2023",
+      "likes": 1545,
+      "rating": 3.5,
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Python Basics",
+          "content": "Introduction to Python programming."
+        },
+        {
+          "week": 2,
+          "topic": "Data Analysis with Pandas",
+          "content": "Using Pandas for data manipulation."
+        }
+      ],
+      "students": [
+        {
+          "id": 105,
+          "name": "David Wilson",
+          "email": "david@example.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Machine Learning",
+      "img": "https://www.analyticssteps.com/backend/media/thumbnail/8530608/992893_1620296010_Machine%20Learning%20(1)Banner.jpg",
+      "instructor": "Emily Taylor",
+      "description": "Introduction to the fundamentals of machine learning.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "8 weeks",
+      "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic programming knowledge",
+        "Statistics"
+      ],
+      "due": "30 Dec 2023",
+      "likes": 4653,
+      "rating": 4.8,
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Machine Learning",
+          "content": "Overview of machine learning concepts."
+        },
+        {
+          "week": 2,
+          "topic": "Linear Regression",
+          "content": "Understanding and implementing linear regression."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 6,
+      "name": "Front-End Web Development",
+      "img": "https://eww-wp-new.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/12/23062235/frontend-web-development.jpg",
+      "instructor": "Oliver Garcia",
+      "description": "Learn front-end web development with HTML, CSS, and JavaScript.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "None"
+      ],
+      "due": "1 Jan 2024",
+      "likes": 4126,
+      "rating": 3.5,
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "HTML and CSS Basics",
+          "content": "Introduction to HTML and CSS fundamentals."
+        },
+        {
+          "week": 2,
+          "topic": "JavaScript Fundamentals",
+          "content": "Introduction to JavaScript programming."
+        }
+      ],
+      "students": [
+        {
+          "id": 106,
+          "name": "Grace Lee",
+          "email": "grace@example.com"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Flutter App Development",
+      "img": "https://assets-global.website-files.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png",
+      "instructor": "Daniel Smith",
+      "description": "Learn mobile app development with the Flutter framework.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "10 weeks",
+      "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic programming knowledge"
+      ],
+      "due": "15 Jan 2024",
+      "likes": 6584,
+      "rating": 4,
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Getting Started with Flutter",
+          "content": "Setting up the Flutter environment and building your first app."
+        },
+        {
+          "week": 2,
+          "topic": "UI Design with Flutter",
+          "content": "Designing user interfaces with Flutter widgets."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 8,
+      "name": "Data Science",
+      "img": "https://i.ytimg.com/vi/0cSFjaXMHpM/maxresdefault.jpg",
+      "instructor": "Sophia Johnson",
+      "description": "Explore the field of data science and machine learning.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "your.image.here",
+      "duration": "12 weeks",
+      "schedule": "Saturdays, 2:00 PM - 4:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Python programming",
+        "Statistics"
+      ],
+      "due": "28 Jan 2024",
+      "likes": 8452,
+      "rating": 3.6,
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Data Analysis with Python",
+          "content": "Analyzing data using Python and libraries like NumPy and Pandas."
+        },
+        {
+          "week": 2,
+          "topic": "Supervised Learning",
+          "content": "Introduction to supervised learning algorithms."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 9,
+      "name": "Java Programming Basics",
+      "img": "https://global.discourse-cdn.com/business7/uploads/openweaver/original/2X/e/ebe5382d1353187736b8a45a72b236858a718c85.jpeg",
+      "instructor": "Mark Davis",
+      "description": "Learn the basics of Java programming.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:30 PM - 8:30 PM",
+      "location": "Online",
+      "prerequisites": [
+        "None"
+      ],
+      "due": "4 Feb 2024",
+      "likes": 4512,
+      "rating": 3.8,
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Java Syntax and Variables",
+          "content": "Understanding Java syntax and working with variables."
+        },
+        {
+          "week": 2,
+          "topic": "Control Flow and Loops",
+          "content": "Using control flow statements and loops in Java."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 10,
+      "name": "Cybersecurity Fundamentals",
+      "img": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/12/Blog_Cybersecurity-Fundamentals.png",
+      "instructor": "Alexandra White",
+      "description": "Explore the fundamentals of cybersecurity and online safety.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "6 weeks",
+      "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic computer knowledge"
+      ],
+      "due": "24 Feb 2024",
+      "likes": 2142,
+      "rating": 3,
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Cybersecurity",
+          "content": "Overview of cybersecurity principles and best practices."
+        },
+        {
+          "week": 2,
+          "topic": "Network Security",
+          "content": "Understanding and securing computer networks."
+        }
+      ],
+      "students": []
+    }
+  ]
+}
