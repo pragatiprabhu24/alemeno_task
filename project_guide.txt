@@ -1,0 +1,7 @@
+In project directory open command prompt and run the command - npm start
+Again open new command prompt in same directory and run the command - npx json-server --watch server.json --port 3333
+
+If json server not installed then run the command
+npm install -g json-server 
+OR
+npm i json-server
